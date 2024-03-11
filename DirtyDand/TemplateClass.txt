@@ -1,0 +1,45 @@
+Name
+Dice
+Armor, Types,
+Simple, Martial,
+Specific, Weapons,
+Artisans, Tools,
+Saving, Throws,
+List, of, skills
+AmountOfSkills
+{table}
+
+Column1
+Column2
+Column3
+...
+
+
+
+R
+o
+w
+1
+
+R
+o
+w
+2
+
+...
+
+{/table}
+
+{features}
+
+FeatureName
+1
+{info}
+
+Line1
+Line2
+...
+
+{/info}
+
+{/feature}

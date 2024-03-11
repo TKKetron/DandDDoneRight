@@ -1,0 +1,249 @@
+Blood Hunter
+Often feared or misunderstood, and driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt to better stalk and survive their prey. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they choose to hunt.
+
+You must have an Intelligence score of 13 or higher and a Strength or Dexterity score of 13 or higher in order to multiclass in or out of this class.
+
+The Blood Hunter
+Level	Proficiency Bonus	Hemocraft Die	Blood Curses Known	Features
+1st	+2	1d4	1	Hunter's Bane, Blood Maledict
+2nd	+2	1d4	1	Fighting Style, Crimson Rite
+3rd	+2	1d4	1	Blood Hunter Order
+4th	+2	1d4	1	Ability Score Improvement
+5th	+3	1d6	1	Extra Attack
+6th	+3	1d6	2	Brand of Castigation, Blood Maledict (2/rest)
+7th	+3	1d6	2	Order Feature, Primal Rite
+8th	+3	1d6	2	Ability Score Improvement
+9th	+4	1d6	2	Grim Psychometry
+10th	+4	1d6	3	Dark Augmentation
+11th	+4	1d8	3	Order Feature
+12th	+4	1d8	3	Ability Score Improvement
+13th	+5	1d8	3	Brand of Tethering, Blood Maledict (3/rest)
+14th	+5	1d8	4	Hardened Soul, Esoteric Rite
+15th	+5	1d8	4	Order Feature
+16th	+5	1d8	4	Ability Score Improvemnt
+17th	+6	1d10	4	Blood Maledict (4/rest)
+18th	+6	1d10	5	Order Feature
+19th	+6	1d10	5	Ability Score Improvement
+20th	+6	1d10	5	Sanguine Mastery
+Class Features
+As a blood hunter, you gain the following class features.
+
+Hit Points
+Hit Dice: 1d10 per blood hunter level
+Hit Points at 1st Level: 10 + your Constitution modifier
+Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per blood hunter level after 1st
+
+Proficiencies
+Armor: Light armor, medium armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: Alchemist's supplies
+Saving Throws: Dexterity, Intelligence
+Skills: Choose three from Athletics, Acrobatics, Arcana, History, Insight, Investigation, Religion, and Survival
+
+Equipment
+(a) a martial weapon or (b) two simple weapons
+(a) a light crossbow and 20 bolts or (b) hand crossbow and 20 bolts
+(a) studded leather armor or (b) scale mail armor
+an explorer's pack
+Hunter's Bane
+Beginning at 1st level, you have survived the Hunter’s Bane, a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it. You have advantage on Wisdom (Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.
+
+The Hunter’s Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+
+Hemocraft save DC = 8 + your proficiency bonus + your Intelligence modifier.
+
+Blood Maledict
+At 1st level, you gain the ability to channel, and sometimes sacrifice, a part of your vital essence to curse and manipulate creatures through hemocraft magic. You gain one Blood Curse of your choice. You learn one additional blood curse of your choice, and you can choose one of the blood curses you know and replace it with another blood curse, at 6th, 10th, 14th, and 18th level.
+
+When you use your Blood Maledict, you choose which curse to invoke. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse.
+
+You can use this feature once. Beginning at 6th level, you can use your Blood Maledict feature twice, at 13th level you can use it three times between rests, and at 17th level, you can use it four times between rests. You regain all expended uses when you finish a short or long rest.
+
+Fighting Style
+At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+Archery. You gain a +2 bonus to attack rolls you make with ranged weapons.
+Dueling. When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+Great Weapon Fighting. When you roll a 1 or 2 on a non-rite damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
+Two-Weapon Fighting. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+Crimson Rite
+At 2nd level, you learn to invoke a rite of hemocraft within your weapon at the cost of your own vitality. Choose one rite from the Primal Rites list below to learn.
+
+As a bonus action, you activate a crimson rite on a single weapon with the elemental energy of a known rite of your choice that lasts until you finish a short or long rest, or if you aren’t holding the weapon at the end of your turn. When you activate a rite, you lose a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table.
+
+While active, attacks from this weapon deal an additional 1d4 damage of the chosen rite’s type. This damage is magical, and increases as you gain levels as a blood hunter, as shown in the Hemocraft Die column of the Blood Hunter table. A weapon can only hold a single active rite at a time.
+
+You learn an additional Primal Rite of your choice at 7th level, and choose an Esoteric Rite to learn at 14th level.
+
+Primal Rites
+Rite of the Flame. Your rite damage is fire damage.
+Rite of the Frozen. Your rite damage is cold damage.
+Rite of the Storm. Your rite damage is lightning damage.
+
+Esoteric Rites
+Rite of the Dead. Your rite damage is necrotic damage.
+Rite of the Oracle. Your rite damage is psychic damage.
+Rite of the Roar. Your rite damage is thunder damage.
+
+Blood Hunter Order
+At 3rd level, you commit to an order of blood hunter martial focus. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.
+
+Order	Source
+Ghostslayer	DMSGuild
+Lycan	DMSGuild
+Mutant	DMSGuild
+Profane Soul	DMSGuild
+Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action.
+
+Brand of Castigation
+At 6th level, whenever you damage a creature with your Crimson Rite feature, you can choose to sear an arcane brand of hemocraft magic into it (requires no action). You always know the direction to the branded creature, and each time the branded creature deals damage to you or a creature you can see within 5 feet of you, the branded creature suffers psychic damage equal to your Intelligence
+modifier (minimum of 1 damage).
+
+Your brand lasts until you dismiss it, or you apply a brand to another creature. Your brand counts as a spell for the purposes of dispel magic, and the spell level is equal to half of your blood hunter level (maximum of 9th level spell).
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+Grim Psychometry
+When you reach 9th level, you have a supernatural talent for discerning the history surrounding mysterious objects or places touched by evil. When making an Intelligence (History) check to recall information about a darker past surrounding an object you are touching, or a location you are present in, you have advantage on the roll. The information gleaned often leans towards the more sinister influences of the past, and sometimes conveys visions of things previously unknown to the character on higher rolls.
+
+Dark Augmentation
+Upon reaching 10th level, arcane blood magic suffuses your body, permanently reinforcing your resilience. Your speed increases by 5 feet, and whenever you make a Strength, Dexterity, or Constitution saving throw, you gain a bonus to the saving throw equal to your Intelligence modifier (minimum of one).
+
+Brand of Tethering
+Starting at 13th level, the psychic damage from your Brand of Castigation feature increases to twice your Intelligence modifier (minimum of 2).
+
+In addition, a branded creature can’t take the Dash action, and if a creature branded by you attempts to teleport or leave their current plane via ability, spell, or portal, they take 4d6 psychic damage and must make a Wisdom saving throw. On a failure, the teleport or plane shift fails.
+
+Hardened Soul
+When you reach 14th level, you have advantage on saving throws against being charmed and frightened.
+
+Sanguine Mastery
+Upon becoming 20th level, you honed your control over blood magic, mitigating your sacrifice and empowering your capability. Once per turn, whenever a blood hunter feature requires you to roll a hemocraft die, you can choose to reroll the die and choose which result to use.
+
+In addition, whenever you score a critical hit with a weapon attack empowered by your Crimson Rite, you regain one expended use of your Blood Maledict feature.
+~
+Fighter
+Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.
+
+You must have a Dexterity or Strength score of 13 or higher in order to multiclass in or out of this class.
+
+The Fighter
+Level	Proficiency Bonus	Features
+1st	+2	Fighting Style, Second Wind
+2nd	+2	Action Surge (x1)
+3rd	+2	Martial Archetype
+4th	+2	Ability Score Improvement, Martial Versatility (Optional)
+5th	+3	Extra Attack (x1)
+6th	+3	Ability Score Improvement, Martial Versatility (Optional)
+7th	+3	Martial Archetype feature
+8th	+3	Ability Score Improvement, Martial Versatility (Optional)
+9th	+4	Indomitable (x1)
+10th	+4	Martial Archetype feature
+11th	+4	Extra Attack (x2)
+12th	+4	Ability Score Improvement, Martial Versatility (Optional)
+13th	+5	Indomitable (x2)
+14th	+5	Ability Score Improvement, Martial Versatility (Optional)
+15th	+5	Martial Archetype feature
+16th	+5	Ability Score Improvement, Martial Versatility (Optional)
+17th	+6	Action Surge (x2), Indomitable (x3)
+18th	+6	Martial Archetype feature
+19th	+6	Ability Score Improvement, Martial Versatility (Optional)
+20th	+6	Extra Attack (x3)
+Class Features
+As a fighter, you gain the following class features.
+
+Hit Points
+Hit Dice: 1d10 per fighter level
+Hit Points at 1st Level: 10 + your Constitution modifier
+Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+
+Proficiencies
+Armor: All armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: None
+Saving Throws: Strength, Constitution
+Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+
+Equipment
+(a) chain mail or (b) leather, longbow, and 20 arrows
+(a) a martial weapon and a shield or (b) two martial weapons
+(a) a light crossbow and 20 bolts or (b) two handaxes
+(a) a dungeoneer's pack or (b) an explorer's pack
+Fighting Style
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+Archery. You gain a +2 bonus to attack rolls you make with ranged weapons.
+Blind Fighting. You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+Defense. While you are wearing armor, you gain a +1 bonus to AC.
+Dueling. When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+Great Weapon Fighting. When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+Interception. When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+Protection. When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+Superior Technique. You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice.)
+You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+Thrown Weapon Fighting. You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
+In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
+Two-Weapon Fighting. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+Unarmed Fighting. Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
+At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
+Close Quarters Shooter (UA). When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
+Mariner (UA). As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to armor class.
+Tunnel Fighter (UA). As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+Second Wind
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+
+Once you use this feature, you must finish a short or long rest before you can use it again.
+
+Action Surge
+Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
+
+Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+
+Martial Archetype
+At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+
+Archetype	Source
+Arcane Archer	Xanathar's Guide to Everything
+Banneret	Sword Coast Adventurer's Guide
+Battle Master	Player's Handbook
+Cavalier	Xanathar's Guide to Everything
+Champion	Player's Handbook
+Echo Knight	Explorer's Guide to Wildemount
+Eldritch Knight	Player's Handbook
+Psi Warrior	Tasha's Cauldron of Everything
+Rune Knight	Tasha's Cauldron of Everything
+Samurai	Xanathar's Guide to Everything
+D&D Beyond Partnered Content
+Renegade	Legends of Runeterra: Dark Tides of Bilgewater
+The following subclass is unofficial homebrew created by WOTC affiliated DM, Matthew Mercer
+Gunslinger	D&D Beyond
+Archived Unearthed Arcana
+Brute	Unearthed Arcana 47 - Three Subclasses
+Knight	Unearthed Arcana 24 - Fighter
+Monster Hunter	Unearthed Arcana 14 - Gothic Heroes
+Psi Knight	Unearthed Arcana 71 - Psionic Options Revisited
+Psychic Warrior	Unearthed Arcana 66 - Fighter, Rogue, Wizard
+Rune Knight	Unearthed Arcana 64 - Fighter, Ranger, Rogue
+Scout	Unearthed Arcana 12 - Kits of Old
+Sharpshooter	Unearthed Arcana 24 - Fighter
+Ability Score Improvement
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Martial Versatility (Optional)
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
+
+Replace a fighting style you know with another fighting style available to fighters.
+If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.
+Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
+
+Indomitable
+Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+
+You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
